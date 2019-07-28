@@ -3,5 +3,5 @@
     "titleBar.activeBackground": "#FF2C70",
     "titleBar.inactiveBackground": "#FF2C70"
   },
-  "python.pythonPath": ".venv/bin/python"
+  "python.pythonPath": "env/bin/python"
 }
